@@ -1,4 +1,4 @@
-
+hi, there
 
 - ​👋​ Olá, eu sou o vinicius 
 - 👨‍🎓​ Estudante de Desenvolvimento de Sistemas
