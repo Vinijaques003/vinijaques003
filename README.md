@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓​ Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Python, HTML e CSS
+- 💻 Focado em Python, HTML e java
 - 🚀 Preparando-se para o mercado de tecnologia
 - 📫 Contato: vinigojaques@gmail.com
 
